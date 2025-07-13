@@ -28,6 +28,6 @@ stromkosten beispiel:
 internetkosten beispiel:
 50% auslastung vom uplink
 5% auslastung vom downlink
-50 eur/monat gesamtkosten internetanschluss
-(0.5 * 500 + 0.05 * 1000) / (500 + 1000) * 50
-= circa 10 euro pro monat
+70 eur/monat gesamtkosten internetanschluss
+(0.5 * 500 + 0.05 * 1000) / (500 + 1000) * 70
+= circa 15 euro pro monat
