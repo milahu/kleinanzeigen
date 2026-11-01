@@ -1,4 +1,4 @@
-hey! magst du für mich arbeiten?
+hey nachbar! magst du für mich arbeiten?
 
 - du wohnst in meiner nachbarschaft: jägerstraße 10, trostberg
 - du bist im alter zwischen 16 und 50
