@@ -10,7 +10,7 @@ hey nachbar! magst du für mich arbeiten?
 
 bücher die ich scanne:
 vor allem "redpill" und "conscious" bücher
-zum thema selbsthilfe, selbstorganisation, dezentralisierung, ...
+zum thema selbsthilfe, selbststudium, selbstorganisation, dezentralisierung, ...
 außerdem auf meiner todo-list:
 Titanic Satiremagazin, circa 500 Ausgaben, je circa 60 Seiten DIN A4
 (ich habe zu viele ideen und zu wenig zeit, deswegen will ich die arbeit delegieren)
